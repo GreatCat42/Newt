@@ -1,0 +1,16 @@
+So... This part of the project is started for a simple reason:
+
+Say, A CANNOT trigger C alone
+And neither does B.
+
+A =x= C
+B =x= C
+
+But if A and B happens at the same time
+or very close to each other,
+there will be a great chance of triggering C.
+
+AB ==> C
+
+The project will focus on the issue above
+and improve Newt's Algorithm
