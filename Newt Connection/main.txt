@@ -1,0 +1,15 @@
+NEWT CONNECTION
+
+in Simple & Brutal, we have this:
+
+--------------------
+
+Detection Time Interval:
+...........
+
+Event List Segment:
+....A......B......
+
+Get A ==> B
+
+--------------------
