@@ -12,5 +12,10 @@ there will be a great chance of triggering C.
 
 AB ==> C
 
-The project will focus on the issue above
-and improve Newt's Algorithm
+So instead of thinking angrily with isolated
+A, B and Cs(Like the S.B.Newt did), we can
+'merge' A and B, thinking as if they are one
+individual event
+
+The project will focus on the problem and solution
+above and improve Newt's Algorithm
